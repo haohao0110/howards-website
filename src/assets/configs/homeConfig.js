@@ -9,22 +9,21 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hi! I'm <strong className="main-name"> Howard Wang</strong>
         </h1>,
     titles: [
-        "A Data Scientist",
-        "A Machine Learning Specialist",
-        "An Open Source Contributor",
-        "A Backend Developer",
-        "A Colombian"
+        "A Data Analytics Graduate",
+        "An Information Technology Specialist",
+        "A Business Intelligent Enthusiast",
+        "A Problem Solver",
+        "A Rutgers Alumni"
     ],
     about: {
-        start: "I've been working for over nine years on data science projects. " +
-            "I'm excited by learning new things, contributing to the data science community," +
-            " and spreading the word of data!",
-        exit: "I'm fluent at Python, SQL databases, BI tools, and more, " +
-            "with a deep interest in machine learning."
-    },
+        start: "I'm a recent graduate from Rutgers University with a Master's in Information Technology and Analytics. " +
+            "I'm passionate about uncovering insights from complex datasets and applying analytical techniques to solve real-world problems.",
+        exit: "I have experience in data analysis, machine learning, and statistical modeling, " +
+            "with projects spanning cryptocurrency analysis, cultural studies, and sports analytics."
+},
     workTimeline: [
         {
             id: "work-4",
