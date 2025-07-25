@@ -14,9 +14,9 @@ const homeConfig = {
     titles: [
         "A Data Analytics Graduate",
         "An Information Technology Specialist",
-        "A Business Intelligent Enthusiast",
+        "A Business Intelligence Enthusiast",
         "A Problem Solver",
-        "A Rutgers Alumni"
+        "A Rutgers Graduate"
     ],
     about: {
         start: "I'm a recent graduate from Rutgers University with a Master's in Information Technology and Analytics. " +
