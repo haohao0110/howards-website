@@ -23,7 +23,7 @@ const homeConfig = {
             "I'm passionate about uncovering insights from complex datasets and applying analytical techniques to solve real-world problems.",
         exit: "I have experience in data analysis, machine learning, and statistical modeling, " +
             "with projects spanning cryptocurrency analysis, cultural studies, and sports analytics."
-},
+    },
     workTimeline: [
         {
             id: "work-4",
